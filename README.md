@@ -1,2 +1,2 @@
 # bamm-install
-A simple app hosted on gh-pages, written in NextJS
+A simple middleware hosted on Vercel, written in NextJS
